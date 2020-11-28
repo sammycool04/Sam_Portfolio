@@ -41,3 +41,13 @@ songplay_id, start_time, user_id, level, song_id, artist_id, session_id, locatio
 
 ### Load it back to S3
 Writes them to partitioned parquet files in table directories on S3.
+
+
+# [Project 4: NLP Health Q&A Chatbot](https://github.com/sammycool04/NLP_Chatbot)
+An NLP based chatbot integrated with neural network to generate answers for some common health concerns questions.
+Technologies include
+* Python Tinker, Natural Language Processing, Neural Network
+
+# [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)
+
+This is a Python package that is designed to compare different machine learning model performance on a dataset. Currently it can only deal with csv file dataset in a certain format

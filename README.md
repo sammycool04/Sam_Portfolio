@@ -1,5 +1,5 @@
-# Sam_Portfolio
-Example data science portfolio
+# Boshen(Sam)'s Portfolios
+Example data science portfolios
 
 
 # [Project 1: Healthy/Sick Faces Classifier with OpenCV and Neural Network](https://github.com/sammycool04/OpenCV-project)

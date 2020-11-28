@@ -9,7 +9,7 @@ This is a project that integrate convolutional neural network(CNN), OpenCV, and 
 * run the CNN model, save it inside the JSON file, and integrate with OpenCV using a data model
 * use Flask to display the index.html file, which shows user's face health condition
 
-![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/health.jpg)
+![](/images/health.jpg)
 
 
 # [Project 2: Recommendation Engine Project](https://github.com/sammycool04/Recommendation_Engine_Project)
@@ -22,7 +22,7 @@ This is a project uses IBM Watson Studio dataset to create recommendation algori
 * Conclusion
 
 Latent Features vs Accuracy
-![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/recommend.png)
+![](/main/images/recommend.png)
 
 # [Project 3:Data Pipeline and Data Processing with Spark and AWS](https://github.com/sammycool04/SparkPipeline)
 
@@ -54,7 +54,7 @@ An NLP based chatbot integrated with neural network to generate answers for some
 Technologies include
 * Python Tinker, Natural Language Processing, Neural Network
 
-![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/Screen%20Shot%202020-11-27%20at%205.07.03%20PM.png)
+![](/images/Screen%20Shot%202020-11-27%20at%205.07.03%20PM.png)
 
 
 # [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)

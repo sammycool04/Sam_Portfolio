@@ -21,6 +21,8 @@ This is a project uses IBM Watson Studio dataset to create recommendation algori
 * Use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
 * Conclusion
 
+Latent Features vs Accuracy
+![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/recommend.png)
 
 # [Project 3:Data Pipeline and Data Processing with Spark and AWS](https://github.com/sammycool04/SparkPipeline)
 
@@ -51,6 +53,8 @@ Writes them to partitioned parquet files in table directories on S3.
 An NLP based chatbot integrated with neural network to generate answers for some common health concerns questions.
 Technologies include
 * Python Tinker, Natural Language Processing, Neural Network
+
+![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/Screen%20Shot%202020-11-27%20at%205.07.03%20PM.png)
 
 
 # [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)

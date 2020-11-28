@@ -55,7 +55,7 @@ An NLP based chatbot integrated with neural network to generate answers for some
 Technologies include
 * Python Tinker, Natural Language Processing, Neural Network
 
-![](/images/Screen%20Shot%202020-11-27%20at%205.07.03%20PM.png)
+![](/images/Screen%20Shot%202020-11-27%20at%205.30.47%20PM.png)
 
 
 # [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)

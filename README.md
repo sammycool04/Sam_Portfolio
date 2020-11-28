@@ -22,7 +22,7 @@ This is a project uses IBM Watson Studio dataset to create recommendation algori
 * Conclusion
 
 Latent Features vs Accuracy
-![](/main/images/recommend.png)
+![](/images/recommend.png)
 
 # [Project 3:Data Pipeline and Data Processing with Spark and AWS](https://github.com/sammycool04/SparkPipeline)
 

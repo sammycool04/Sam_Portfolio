@@ -3,7 +3,7 @@ Example data science portfolios
 
 
 # [Project 1: Healthy/Sick Faces Classifier with OpenCV and Neural Network](https://github.com/sammycool04/OpenCV-project)
-This is a project that integrates convolutional neural network(CNN), OpenCV, and Flask. The purpose is to classify healthy and sich images using computer vision and neural network. The technical design is like the followings:
+This is a project that integrates convolutional neural network(CNN), OpenCV, and Flask. I was thinking that it would be so beneficial for people to check their health conveniently even at home; therefore, I created this app, which can give you a predicted health condition statement based on simply how you look. After all, the face can tell you a lot about health. The technical design is below:
 
 * start training the CNN model using healthy and sick faces image data
 * run the CNN model, save it inside the JSON file, and integrate with OpenCV using a data model

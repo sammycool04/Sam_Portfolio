@@ -21,8 +21,9 @@ This is a project uses IBM Watson Studio dataset to create recommendation algori
 * Use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
 * Conclusion
 
-Latent Features vs Accuracy
+
 ![](/images/recommend.png)
+
 
 # [Project 3:Data Pipeline and Data Processing with Spark and AWS](https://github.com/sammycool04/SparkPipeline)
 

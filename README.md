@@ -9,6 +9,9 @@ This is a project that integrate convolutional neural network(CNN), OpenCV, and 
 * run the CNN model, save it inside the JSON file, and integrate with OpenCV using a data model
 * use Flask to display the index.html file, which shows user's face health condition
 
+![](https://github.com/sammycool04/Sam_Portfolio/blob/main/images/health.jpg)
+
+
 # [Project 2: Recommendation Engine Project](https://github.com/sammycool04/Recommendation_Engine_Project)
 This is a project uses IBM Watson Studio dataset to create recommendation algorithm for users. There are four parts in this project
 
@@ -17,6 +20,7 @@ This is a project uses IBM Watson Studio dataset to create recommendation algori
 * User-User Based Collaborative Filtering Function create_user_item_matrix: reformat the df dataframe to be shaped with users as the rows and articles as the columns.
 * Use matrix factorization to make article recommendations to the users on the IBM Watson Studio platform
 * Conclusion
+
 
 # [Project 3:Data Pipeline and Data Processing with Spark and AWS](https://github.com/sammycool04/SparkPipeline)
 
@@ -47,6 +51,7 @@ Writes them to partitioned parquet files in table directories on S3.
 An NLP based chatbot integrated with neural network to generate answers for some common health concerns questions.
 Technologies include
 * Python Tinker, Natural Language Processing, Neural Network
+
 
 # [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)
 

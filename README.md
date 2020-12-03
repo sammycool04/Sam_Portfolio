@@ -61,3 +61,11 @@ Technologies include
 # [Project 5: Modelpair](https://github.com/sammycool04/Modelpair)
 
 This is a Python package that is designed to compare different machine learning model performance on a dataset. Currently it can only deal with csv file dataset in a certain format
+
+# [Project 6: FinalList](https://github.com/sammycool04/IST-303-Group5)
+
+FinalList is a web application that enables users to identify their ideal housing option. Users can generate their personalized housing lists based on their inputed parameters such as
+* crime rate risk levels and proximity to area amenities (schools, grocery stores)
+* recreation space (hiking and biking trails, parks, etc.) that
+coincide with selected rental or sales ranges
+*bedroom/bathroom combinations and other housing-related specifications.

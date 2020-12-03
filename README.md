@@ -69,3 +69,5 @@ FinalList is a web application that enables users to identify their ideal housin
 * recreation space (hiking and biking trails, parks, etc.) that
 coincide with selected rental or sales ranges
 *bedroom/bathroom combinations and other housing-related specifications.
+
+![](/images/house.jpeg)

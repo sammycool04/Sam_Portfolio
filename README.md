@@ -62,7 +62,13 @@ Technologies include
 
 This is a Python package that is designed to compare different machine learning model performance on a dataset. Currently it can only deal with csv file dataset in a certain format
 
-# [Project 6: FinalLists](https://github.com/sammycool04/IST-303-Group5)
+# [Project 6:Data Modeling and Pipeline ](https://github.com/sammycool04/DataModeling)
+
+* An ETL pipeline project built with Python and Postgres for the Million Song Dataset
+* Implemented data modeling, data querying and schema design, and improved data frame insertion method from tutorials 
+
+
+# [Project 7: FinalLists](https://github.com/sammycool04/IST-303-Group5)
 
 FinalLists is a web application that enables users to identify their ideal housing option. Users can generate their personalized housing lists based on their inputed parameters such as
 * crime rate risk levels and proximity to area amenities (schools, grocery stores)
